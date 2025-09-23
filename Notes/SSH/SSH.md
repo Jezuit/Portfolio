@@ -46,11 +46,17 @@ I used the command:
 7. Closed MC using F10.
 
 
-8. Using the Zentyal Web GUI, under the Software & Management section, I installed additional useful programs and features such as Docker and FTP. I also enabled the Domain Controller and File Sharing module.
+8. Using the Zentyal Web GUI, under the Software & Management section, I installed additional useful programs and features such as Docker and FTP.
 
 
-9. In Users and Computers → Manage, I:
+9. I enabled the Domain Controller and File Sharing module.
+
+
+10. In Users and Computers → Manage, I:
 
   Created three groups: HR, IT, and Staff (regular employees)
   
   Added a user: jan.kowalski
+
+
+11. 
