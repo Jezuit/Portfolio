@@ -19,7 +19,7 @@
 3. Connecting to the server via SSH.
 I used the command:
 
-  $ ssh mbpadmin@10.0.10.5
+  $ ssh password@10.0.10.5
 
 
 4. I executed four commands to download and update the latest APT packages and NTP:
