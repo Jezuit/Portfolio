@@ -61,10 +61,10 @@
 
     ~$ sudo mariadb
 
-13. Created the database and user with the password “mbpadmin”
+13. Created the database and user with the password
 
     CREATE DATABASE zm;
-    GRANT ALL PRIVILEGES ON zm.\* TO 'zmuser'@'localhost' IDENTIFIED BY 'mbpadmin';
+    GRANT ALL PRIVILEGES ON zm.\* TO 'zmuser'@'localhost' IDENTIFIED BY 'password';
     FLUSH PRIVILEGES;
     EXIT;
 
@@ -126,9 +126,9 @@
 
     ~$ sudo nano /etc/zm/zm.conf
 
-27. Found the line where the password used by ZoneMinder is set and changed it to the configured one “mbpadmin”:
+27. Found the line where the password used by ZoneMinder is set and changed it to the configured one password:
 
-    ZM\_DB\_PASS='...'    ➡️   ZM\_DB\_PASS='mbpadmin'
+    ZM\_DB\_PASS='...'    ➡️   ZM\_DB\_PASS='password'
 
 28. Saved and exited the file (Ctrl + O > Enter > Ctrl + X)
 
