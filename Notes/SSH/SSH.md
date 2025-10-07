@@ -1,10 +1,10 @@
 1. Configured the IP on the computer I was working on as follows:
   
-  IP: 10.0.10.10
+  IP: ***.***.***.***
   
-  Subnet mask: 255.255.255.0
+  Subnet mask: ***.***.***.***.***
   
-  Gateway: 10.0.10.1
+  Gateway: ***.***.***.*
   
   DNS: 8.8.8.8
 
@@ -19,7 +19,7 @@
 3. Connecting to the server via SSH.
 I used the command:
 
-  $ ssh password@10.0.10.5
+  $ ssh password@*IP*
 
 
 4. I executed four commands to download and update the latest APT packages and NTP:
