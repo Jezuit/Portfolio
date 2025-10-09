@@ -157,7 +157,7 @@
 
 ## 27. Found the line where the password used by ZoneMinder is set and changed it to the configured one password:
 
-* ** ZM\_DB\_PASS='...'    ➡️   ZM\_DB\_PASS='password' **
+* **ZM\_DB\_PASS='...'    ➡️   ZM\_DB\_PASS='password'**
 
 ## 28. Saved and exited the file (Ctrl + O > Enter > Ctrl + X)
 
