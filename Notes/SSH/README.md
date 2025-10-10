@@ -1,4 +1,4 @@
-#SSH protocol
+#SSH protocol and Zentyal configuration
 ---
 
 ## 1. Configured the IP on the computer I was working on as follows:
@@ -66,4 +66,4 @@ I used the command:
   Added a user: jan.kowalski
 
 
-## 11. 
+## 11. More steps in here:(https://github.com/Jezuit/crypto_event_monitor)
