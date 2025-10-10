@@ -3,11 +3,11 @@
 
 ## 1. Configured the IP on the computer I was working on as follows:
   
-*  IP: ***.***.***.***
+*  IP: 
   
- * Subnet mask: ***.***.***.***.***
+ * Subnet mask: 
   
- * Gateway: ***.***.***.*
+ * Gateway: 
   
 *  DNS: 8.8.8.8
 
