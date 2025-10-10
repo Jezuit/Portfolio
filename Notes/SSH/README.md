@@ -14,16 +14,16 @@
 
 ## 2. Connected to a switch and conducted a connectivity test between the client and the server using the ping command:
 ```
-  $ ping 8.8.8.8
+  ping 8.8.8.8
 ```
 ```
-  $ ping www.onet.pl
+  ping www.onet.pl
 ```
 
 ## 3. Connecting to the server via SSH.
 I used the command:
 ```
-  $ ssh password@*IP*
+  ssh password@*IP*
 ```
 
 ## 4. I executed four commands to download and update the latest APT packages and NTP:
