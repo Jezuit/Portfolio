@@ -66,4 +66,4 @@ I used the command:
   Added a user: jan.kowalski
 
 
-## 11. More steps in here:(https://github.com/Jezuit/crypto_event_monitor)
+## 11. [Next steps](https://github.com/Jezuit/crypto_event_monitor)
