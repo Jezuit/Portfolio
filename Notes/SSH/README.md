@@ -1,4 +1,4 @@
-#SSH protocol and Linux configuration
+# SSH protocol and Linux configuration
 ---
 
 ## 1. Configured the IP on the computer I was working on as follows:
